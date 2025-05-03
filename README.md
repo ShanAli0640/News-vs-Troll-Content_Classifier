@@ -22,9 +22,10 @@ pip install --no-cache-dir \
   datasets==3.2.0 \
 ```
 
-Ensure that the file containg GloVe embeddings is unzipped.
+Download and unzip GloVe embeddings.
 ```
-unzip glove.6B.zip
+wget https://nlp.stanford.edu/data/glove.6B.zip
+unzip glove.6B.zip glove.6B.100d.txt
 ```
 
 Finally, run the script.
