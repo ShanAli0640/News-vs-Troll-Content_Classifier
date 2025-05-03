@@ -23,7 +23,11 @@ pip install --no-cache-dir \
 ```
 
 Ensure that the file containg GloVe embeddings is unzipped.
-`unzip glove.6B.zip`
+```
+unzip glove.6B.zip
+```
 
 Finally, run the script.
-`python news-versus-troll.py`
+```
+python news-versus-troll.py
+```
