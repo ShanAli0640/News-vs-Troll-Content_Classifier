@@ -1,6 +1,6 @@
 # News-vs-Troll-Content_Classifier
 
-Set of models to test various neural archietcture for classifying between factual news and troll comments
+Set of models to test various neural archietcture for classifying between factual news and troll comments.
 
 ### SETUP
 
